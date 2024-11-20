@@ -1,5 +1,3 @@
-# My-script
-
 local window = DrRayLibrary:Load("Devi Hub", "Default")
 
 local tab1 = DrRayLibrary.newTab("Players", "ImageIdHere")
